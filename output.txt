@@ -1,6 +1,0 @@
-Abdulov Abdul Abdulovich, 110
-Bebrov Bebra Bebrovitch, 210
-Belevantsev Ilya Viktorovich, 878.01
-Bezrukov Georgy Sergeevich, 999
-Ponasenkov Evgeny Nikolaevitch, 25
-total salary is 2222.01
