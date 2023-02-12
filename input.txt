@@ -1,0 +1,4 @@
+Abdulov Abdul Abdulovich, 100, 10.
+Belevantsev Ilya Viktorovich, 777, 13.
+Bezrukov Georgy Sergeevich, 999, 0.
+Ponasenkov Evgeny Nikolaevitch, 25, 0.

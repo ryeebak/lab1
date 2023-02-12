@@ -1,0 +1,5 @@
+Abdulov Abdul Abdulovich, 110
+Belevantsev Ilya Viktorovich, 878.01
+Bezrukov Georgy Sergeevich, 999
+Ponasenkov Evgeny Nikolaevitch, 25
+total salary is 2012.01
