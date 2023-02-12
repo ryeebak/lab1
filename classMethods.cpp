@@ -8,7 +8,7 @@ Worker::Worker(){        // пустой конструктор
     cash = 0;
     percent = 0;
 }
-void Worker::set(std::string name, double c, double p){ // функция для инициализации полей для созданного "пустого" объекта
+void Worker::set(std::string name, double c, double p){ // метод для инициализации полей для созданного "пустого" объекта
     fio = name;
     cash = c;
     percent = p;
